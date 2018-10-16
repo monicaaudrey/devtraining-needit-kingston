@@ -5,13 +5,13 @@
             <element>comments</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-10 13:58:00</sys_created_on>
-            <sys_id>2f59d7b5db012300df9964d7489619c9</sys_id>
+            <sys_created_on>2018-10-16 20:18:31</sys_created_on>
+            <sys_id>dc0a277bdb012300df9964d748961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">5759d7b5db012300df9964d748961911</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-10 13:58:00</sys_updated_on>
+            <sys_updated_on>2018-10-16 20:18:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>work_notes</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-10 13:58:00</sys_created_on>
-            <sys_id>af59d7b5db012300df9964d7489619c9</sys_id>
+            <sys_created_on>2018-10-16 20:18:31</sys_created_on>
+            <sys_id>500a277bdb012300df9964d748961999</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">5759d7b5db012300df9964d748961911</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-10 13:58:00</sys_updated_on>
+            <sys_updated_on>2018-10-16 20:18:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>activity.xml</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-10 13:58:00</sys_created_on>
-            <sys_id>2359d7b5db012300df9964d7489619ca</sys_id>
+            <sys_created_on>2018-10-16 20:18:31</sys_created_on>
+            <sys_id>d00a277bdb012300df9964d748961999</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">5759d7b5db012300df9964d748961911</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-10 13:58:00</sys_updated_on>
+            <sys_updated_on>2018-10-16 20:18:31</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>short_description</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-10 13:58:00</sys_created_on>
-            <sys_id>6359d7b5db012300df9964d7489619d0</sys_id>
+            <sys_created_on>2018-10-16 20:18:31</sys_created_on>
+            <sys_id>d40a277bdb012300df9964d748961999</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">5759d7b5db012300df9964d748961911</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-10 13:58:00</sys_updated_on>
+            <sys_updated_on>2018-10-16 20:18:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,16 +61,45 @@
             <element>description</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-10 13:58:00</sys_created_on>
-            <sys_id>e359d7b5db012300df9964d7489619d0</sys_id>
+            <sys_created_on>2018-10-16 20:18:31</sys_created_on>
+            <sys_id>580a277bdb012300df9964d748961999</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">5759d7b5db012300df9964d748961911</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-10 13:58:00</sys_updated_on>
+            <sys_updated_on>2018-10-16 20:18:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>b7e9e37bdb012300df9964d7489619db</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 20:18:31</sys_created_on>
+            <sys_id>d80a277bdb012300df9964d748961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">5759d7b5db012300df9964d748961911</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 20:18:31</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field/>
+            <height>300</height>
+            <label>Active NeedIt Requests by Type</label>
+            <report display_value="Business Services by Location">01a8f532df01110068c37a0d3df2635a</report>
+            <report_field/>
+            <report_qual/>
+            <section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">5759d7b5db012300df9964d748961911</section>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 20:18:13</sys_created_on>
+            <sys_id>b7e9e37bdb012300df9964d7489619db</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 20:19:36</sys_updated_on>
+        </sys_ui_chart>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Log</caption>
             <header>false</header>
